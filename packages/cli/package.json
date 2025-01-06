@@ -1,6 +1,6 @@
 {
   "name": "jsketch-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A CLI to launch an interactive development environment for writing and documenting code.",
   "publishConfig": {
     "access": "public"
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsketch-cli/local-client": "^1.0.0"
+    "@jsketch-cli/local-client": "^2.0.0"
   },
   "devDependencies": {
-    "@jsketch-cli/local-api": "^1.0.0",
+    "@jsketch-cli/local-api": "^2.0.0",
     "@types/node": "^22.10.5",
     "commander": "^11.0.0",
     "esbuild": "0.8.26",

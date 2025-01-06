@@ -1,6 +1,6 @@
 {
   "name": "@jsketch-cli/local-api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -18,7 +18,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@jsketch-cli/local-client": "^1.0.0",
+    "@jsketch-cli/local-client": "^2.0.0",
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "http-proxy-middleware": "^3.0.3"
