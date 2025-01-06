@@ -2,7 +2,7 @@
 
 A CLI to launch an interactive development environment for writing and documenting code. Design credit to Stephen Grider.
 
-To open the application run `npx jsketch-cli serve` from your terminal and follow the instructions.
+To open the application run `npx jsketch-cli serve` from your terminal and follow the instructions. Check the package out on [NPM](https://www.npmjs.com/package/jsketch-cli?activeTab=code).
 
 ### Featuring:
 
