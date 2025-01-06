@@ -17,12 +17,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-   "@jsketch-cli/local-client": "^1.0.0"
+    "@jsketch-cli/local-client": "^1.0.0"
   },
   "devDependencies": {
     "@jsketch-cli/local-api": "^1.0.0",
-    "commander": "^11.0.0",
     "@types/node": "^22.10.5",
+    "commander": "^11.0.0",
     "esbuild": "0.8.26",
     "typescript": "^5.2.2"
   }
